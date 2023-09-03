@@ -1,0 +1,7 @@
+Because the UI is not complete, controls are not provided:
+WASD to move
+0-9 or scroll to select an inventory slot
+f to drop an item from your inventory on the ground
+q to pick up a colored item and place in inventory
+e to pick up and move around an item
+left click to throw an item
